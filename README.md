@@ -28,11 +28,7 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/emanuelwellyngton)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/emanuelwellyngton)
+![AWS](https://img.shields.io/badge/AWS-2496ED?style=flat&logo=aws&logoColor=white)
 
 ## 🏆 Feature Projects
 
